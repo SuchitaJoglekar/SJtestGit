@@ -1,2 +1,4 @@
 Test 
-fix bug1
+fix bug1 -- new by team mate
+
+master change for 1 item by team mate
