@@ -2,3 +2,5 @@ Hello World !!
 
 Tryimg my 1st push to remote
 change made by team mate for pull
+
+change by team mate to check conflict
